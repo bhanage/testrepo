@@ -1,0 +1,2 @@
+You can view my assignment by URL: 
+https://eu-de.dataplatform.cloud.ibm.com/analytics/notebooks/v2/bca885ff-2264-46b6-9c6a-bd900b77cd02/view?access_token=6b7bc0c58e70bad515dea039d25f9cd0cda88226be95c6b5469e1b95ab489000
